@@ -30,6 +30,8 @@ Main Features
 --------------
 
  - Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.
+ - The console will display the full result of the addition.
+ - In the XML file, you will be saved the first 10 digits of the result
 
 Version
 ----
