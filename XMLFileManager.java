@@ -60,7 +60,7 @@ public class XMLFileManager{
   }
 
   private void findChild(){
-    Node resultTag = newDocument.getElementsByTagName( tagResult ).item(0); //result
+    Node resultTag = newDocument.getElementsByTagName( tagResult ).item(0);
     NodeList list = resultTag.getChildNodes();
     Node nodeNumerOfTagResult = list.item(1);
     if ( tagNumber.equals(nodeNumerOfTagResult.getNodeName() ) ) {

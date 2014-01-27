@@ -5,20 +5,21 @@ This program was made in Java.
 
 They have 3 classes
 
- - ReadXMLFile
+ - XMLFileManager
  - BigDecimalSum
  - Main
 
 To run the game you need to have JAVA and SDK on the computer. 
 
 You only need to run the Main.java
+The name of the file XML is base.xml
 
 Run
 --------------
 
 ```sh
 javac Main.java
-java Main
+java Main <name of XML file>
 ```
 
 Goal
@@ -36,7 +37,7 @@ Main Features
 Version
 ----
 
-1.0
+2.0
 
 author
 ----
